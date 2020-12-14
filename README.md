@@ -2,11 +2,7 @@
 my website
 
 title: github website
-<!DOCTYPE html> 
-<html> 
-  <head>
-    <meta charset="utf-8"/>
-    <meta name="keywords">
+
     <h1> my favorite games </h1>
   </head> 
 
